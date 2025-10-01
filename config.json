@@ -1,0 +1,35 @@
+{
+  "channels": ["rybsonlol", "xmerghani", "remsua", "lukisteve"],
+  "wait_times": {
+    "livestream_active": {
+      "min": 180,
+      "max": 400
+    },
+    "livestream_inactive": 300,
+    "error_wait": 180
+  },
+  "authorization": "Bearer 83324831|2YqLmchVHAMbmFlHXhpyf7yer63S1Grvur7iatgN",
+  "messages": [
+    "[emote:1730753:emojiAngry]",
+    "[emote:1730756:emojiCheerful]",
+    "suchar to taki cwel",
+    "[emote:1730758:emojiClown]",
+    "[emote:1730768:emojiDevil]",
+    "[emote:1730772:emojiFire]",
+    "[emote:1579054:emojiEyeRoll]",
+    "[emote:1730767:emojiDead]",
+    "Legenda",
+    "[emote:1730765:emojiCute]",
+    "[emote:1730759:emojiCool]",
+    "esz",
+    "[emote:3419634:emojiFlag]",
+    "[emote:3419630:emojiTire]",
+    "[emote:1730825:emojiSleep]",
+    "poopo",
+    "[emote:1730807:emojiShocked]",
+    "[emote:1730840:emojiYum]",
+    "xd",
+    "xdd",
+    "KEKW"
+  ]
+}
